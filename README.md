@@ -1,5 +1,4 @@
 # AdvancedWidget1
-
 * ScreenShoot Aplikasi
 ![Screenshot_2016-10-09-20-26-24.png](https://github.com/nurkumalabudif/AdvancedWidget1/blob/master/Screenshot_2016-10-09-20-26-24.png)
 ![Screenshot_2016-10-09-20-26-27.png](https://github.com/nurkumalabudif/AdvancedWidget1/blob/master/Screenshot_2016-10-09-20-26-27.png)
